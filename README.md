@@ -1,6 +1,6 @@
 # Hi, I'm Lars 👋
 
-I build automations, AI integrations, and tools for macOS.
+Building AI automations and tools.
 
 ## Projects
 
