@@ -4,6 +4,8 @@
 
 Automating the future with AI and n8n.
 
+🌐 [fvm-studio.com](https://fvm-studio.com)
+
 ## Projects
 
 - **[n8n-mcp-server](https://github.com/Lars-FivMo/n8n-mcp-server)** — MCP server exposing n8n workflow automation to Claude
