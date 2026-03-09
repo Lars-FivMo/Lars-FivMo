@@ -2,7 +2,7 @@
 
 # Hi, I'm Lars 👋
 
-Building AI automations and tools.
+Automating the future with AI and n8n.
 
 ## Projects
 
