@@ -1,3 +1,5 @@
+<img src="lars.jpeg" alt="Lars" width="150" align="right">
+
 # Hi, I'm Lars 👋
 
 Building AI automations and tools.
